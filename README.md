@@ -14,4 +14,4 @@ Estudante na área de programação full-stack...
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AndreRolimDias/AndreRolimDias/blob/output/github-contribution-grid-snake.svg)
