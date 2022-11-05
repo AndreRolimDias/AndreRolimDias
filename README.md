@@ -1,4 +1,5 @@
-## 👨‍🎓 Olá sou o André Rolim Dias
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow-green&size=28&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Olá,+Sou+André+Rolim+Dias;Estudante+na+area+de;Full+Stack+Developer.)](https://git.io/typing-svg)
+
 Estudante na área de programação full-stack...
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrerolimdias?igshid=YmMyMTA2M2Y=)
