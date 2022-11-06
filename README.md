@@ -34,6 +34,8 @@
  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
  <a href="#"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?logo=zoom&logoColor=white"></a>
+ <a href="#"><img alt="Zoom" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
+ <a href="#"><img alt="Zoom" src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white"></a>
     
 </div>
 
