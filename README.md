@@ -1,6 +1,8 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow-green&size=28&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Olá,+Sou+André+Rolim+Dias;Estudante+na+área+de;Full+Stack+Developer.)](https://git.io/typing-svg)
+<div align="center">
   
-  <div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A025D3&size=26&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Olá,+Sou+André+Rolim+Dias;Estudante+na+área+de;Full+Stack+Developer.)](https://git.io/typing-svg)
+  
+  
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/andrerolimdias?igshid=YmMyMTA2M2Y=)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-rolim-dias-69b68b24a/)
