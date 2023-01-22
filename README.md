@@ -41,6 +41,7 @@
  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a> 
  <a href="#"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?logo=zoom&logoColor=white"></a>
+ <a href="#"><img alt="w3schools" src="https://img.shields.io/badge/w3schools-35BF5C.svg?logologoColor=white"></a>
  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
  <a href="#"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white"></a> 
  <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
