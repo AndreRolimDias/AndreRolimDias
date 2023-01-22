@@ -18,7 +18,7 @@
   
   ### 📚 Escolas e Cursos Profissionalizantes:
   
-  <a href="#"><img alt="imagine" src="https://img.shields.io/badge/Imagine School-F15B2A.svg?logo=Pluralsight&logoColor=white"></a>
+  <a href="#"><img alt="imagine" src="https://img.shields.io/badge/Imagine School-FE7A16?.svg?logo=Pluralsight&logoColor=white"></a>
   
   ### 🛠️ Habilidades:
   
