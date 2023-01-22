@@ -47,7 +47,7 @@
  <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
  <a href="#"><img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?logo=Adobe%20Photoshop&logoColor=black"></a>
  <a href="#"><img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
- <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoCo"></a>
+ <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
  </div>
